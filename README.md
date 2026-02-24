@@ -49,13 +49,3 @@ Add these secrets in **Settings > Secrets and variables > Actions**:
 - `SSH_KEY`: Private SSH key content
 - `SSH_PORT`: EC2 SSH port
 
-## 📸 Screenshots & Proof of Work
-
-### 1️⃣ CI/CD Configuration & Execution
-
-
-### 2️⃣ Docker Image Build & Push Process
-
-### 3️⃣ Application Deployment & Working UI
-
-### 4️⃣ Nginx Setup & Infrastructure Details
